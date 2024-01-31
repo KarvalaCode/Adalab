@@ -18,4 +18,4 @@ En la carpeta "Estudio_Reservas_Vuelos" encontrarás la evaluación relacionada 
 
 ## Autoría
 
-Evaluaciones realizados por [Karvala](https://github.com/KarvalaCode)
+Evaluaciones realizadas por [Karvala](https://github.com/KarvalaCode)
