@@ -12,7 +12,7 @@ Dentro de la carpeta "Tienda_Online_Python", encontrarás la evaluación corresp
 
 La carpeta "Queries_SQL_Sakila" contiene evaluaciones específicas relacionadas con consultas SQL utilizando la base de datos Sakila. Estas evaluaciones muestran mi habilidad para crear consultas SQL efectivas y resolver problemas utilizando datos almacenados en bases de datos relacionales.
 
-### 3. [Estudio_Reservas_Vuelos]
+### 3. [Estudio_Reservas_Vuelos](https://github.com/KarvalaCode/Adalab/tree/main/Evaluaciones/estudio_reservas_vuelos)
 
 En la carpeta "Estudio_Reservas_Vuelos" encontrarás la evaluación relacionada con un proyecto específico de análisis de datos sobre reservas de vuelos. En él se realiza un análisis exploratorio de los datos, una limpieza, un análisis estadístico y difrentes visualizaciones. Este ejercicio demuestra mi capacidad para aplicar conceptos de análisis de datos y programación en Python para abordar situaciones del mundo real relacionadas con reservas de vuelos.
 
