@@ -1,0 +1,6 @@
+,customer_type,num_cancelados,num_no_cancelados,tasa
+0,Contract,976,2270,0.3
+1,Group,44,416,0.1
+2,Transient,27883,41917,0.4
+3,Transient-Party,4815,14591,0.25
+4,Unknown,9404,15689,0.37

@@ -1,0 +1,9 @@
+,market_segment,num_cancelados,num_no_cancelados,tasa
+0,Aviation,24,94,0.2
+1,Complementary,43,320,0.12
+2,Corporate,469,2166,0.18
+3,Direct,961,5390,0.15
+4,Groups,5868,3758,0.61
+5,Offline TA/TO,3956,7877,0.33
+6,Online TA,10440,17873,0.37
+7,Unknown,21360,37405,0.36

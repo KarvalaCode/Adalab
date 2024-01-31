@@ -1,0 +1,105 @@
+,country,num_cancelados,num_no_cancelados,tasa
+0,Albania,1,4,0.2
+1,Algeria,13,42,0.24
+2,Angola,110,84,0.57
+3,Argentina,25,84,0.23
+4,Armenia,1,4,0.2
+5,Australia,52,179,0.23
+6,Austria,120,534,0.18
+7,Azerbaijan,7,5,0.58
+8,Bahrain,3,1,0.75
+9,Bangladesh,7,1,0.88
+10,Belarus,7,11,0.39
+11,Belgium,276,1029,0.21
+12,Bosnia and Herzegovina,2,9,0.18
+13,Brazil,428,755,0.36
+14,Bulgaria,5,38,0.12
+15,Cape Verde,7,5,0.58
+16,Chile,10,24,0.29
+17,China,388,831,0.32
+18,Colombia,11,23,0.32
+19,Costa Rica,1,9,0.1
+20,Croatia,16,44,0.27
+21,Cyprus,6,15,0.29
+22,Czech Republic,20,64,0.24
+23,Denmark,50,174,0.22
+24,Dominican Republic,6,4,0.6
+25,East Timor,1,2,0.33
+26,Ecuador,3,9,0.25
+27,Egypt,4,11,0.27
+28,Estonia,9,38,0.19
+29,Faroe Islands,2,1,0.67
+30,Finland,35,212,0.14
+31,France,1070,4675,0.19
+32,Gabon,2,2,0.5
+33,Georgia,4,2,0.67
+34,Germany,644,3284,0.16
+35,Ghana,1,2,0.33
+36,Gibraltar,5,6,0.45
+37,Greece,20,60,0.25
+38,Guinea-Bissau,1,4,0.2
+39,Hong Kong,12,2,0.86
+40,Hungary,44,73,0.38
+41,Iceland,2,24,0.08
+42,India,21,69,0.23
+43,Indonesia,17,3,0.85
+44,Iran,16,31,0.34
+45,Ireland,452,1348,0.25
+46,Israel,93,274,0.25
+47,Italy,727,1336,0.35
+48,Ivory Coast,1,3,0.25
+49,Japan,14,102,0.12
+50,Jordan,3,9,0.25
+51,Kazakhstan,3,5,0.38
+52,Kuwait,3,5,0.38
+53,Latvia,4,33,0.11
+54,Lebanon,5,11,0.31
+55,Lithuania,5,49,0.09
+56,Luxembourg,63,97,0.39
+57,Malaysia,1,19,0.05
+58,Maldives,7,2,0.78
+59,Malta,2,7,0.22
+60,Mexico,4,44,0.08
+61,Monaco,1,2,0.33
+62,Morocco,60,92,0.39
+63,Mozambique,8,27,0.23
+64,Netherlands,208,941,0.18
+65,New Zealand,3,29,0.09
+66,Nigeria,15,7,0.68
+67,North Macedonia,1,5,0.17
+68,Norway,96,255,0.27
+69,Oman,3,9,0.25
+70,Pakistan,4,1,0.8
+71,Peru,2,14,0.12
+72,Philippines,12,10,0.55
+73,Poland,132,411,0.24
+74,Portugal,14386,11517,0.56
+75,Puerto Rico,1,10,0.09
+76,Qatar,6,2,0.75
+77,Romania,73,201,0.27
+78,Russia,123,206,0.37
+79,Saudi Arabia,18,8,0.69
+80,Senegal,8,2,0.8
+81,Serbia,2,54,0.04
+82,Singapore,8,12,0.4
+83,Slovakia,12,23,0.34
+84,Slovenia,11,17,0.39
+85,South Africa,16,22,0.42
+86,South Korea,26,44,0.37
+87,Spain,1192,3505,0.25
+88,Sweden,125,413,0.23
+89,Switzerland,234,728,0.24
+90,Taiwan,6,22,0.21
+91,Tajikistan,6,1,0.86
+92,Thailand,12,19,0.39
+93,Tunisia,11,9,0.55
+94,Turkey,63,83,0.43
+95,Ukraine,11,23,0.32
+96,United Arab Emirates,23,5,0.82
+97,United Kingdom,1367,5203,0.21
+98,United States,290,884,0.25
+99,Unknown,19631,34123,0.37
+100,Uruguay,4,15,0.21
+101,Venezuela,5,5,0.5
+102,Vietnam,2,5,0.29
+103,Zimbabwe,2,2,0.5
