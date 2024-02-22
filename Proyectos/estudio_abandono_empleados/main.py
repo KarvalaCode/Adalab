@@ -191,7 +191,7 @@ for i in col_a_int:
 df.to_csv("data/datos_empleados.csv")
 
 # %%
-# Preparra datos para cargar #
+# Preparar datos para cargar #
 ##############################
 
 # leemos el csv en un dataframe
